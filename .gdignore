@@ -1,0 +1,2 @@
+# This file tells Godot to ignore this directory
+# The godot-mcp folder contains MCP server files and should not be treated as a Godot project
